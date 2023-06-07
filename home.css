@@ -993,7 +993,9 @@
     flex-wrap: wrap;
     align-items: center;
     flex-direction: row;
-    justify-content: space-between;
+    padding-left: var(--dl-space-24);
+    padding-right: var(--dl-space-24);
+    justify-content: space-around;
   }
   
   .home-footer {
