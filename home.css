@@ -92,10 +92,6 @@
     display: list-item;
   }
   
-  .teleport-show {
-    transform: translateX(0%) !important;
-  }
-  
   .section-container {
     width: 100%;
     display: flex;
